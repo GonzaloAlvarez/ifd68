@@ -36,7 +36,7 @@ Keys behavior can be personalized (and resetted) using the [official programmer]
 | Fn + Esc | All lights on (effects off) |
 | Fn + Space | Stop running effect |
 
-See more in the [User manual]()
+See more in the [User manual](https://github.com/GonzaloAlvarez/ifd68/blob/master/media/docs/IFD68-User-Manual.pdf)
 
 ## Bluetooth pairing
 | Key pressed |  Function |
@@ -44,7 +44,7 @@ See more in the [User manual]()
 | Long press Fn + Q/W/E | Enter bluetooth matching |
 | Short press Fn + Q/W/E | Reconnect bluetooth |
 
-See more in the [User manual]()
+See more in the [User manual](https://github.com/GonzaloAlvarez/ifd68/blob/master/media/docs/IFD68-User-Manual.pdf)
 
 # External resources
 
