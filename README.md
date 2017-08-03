@@ -1,6 +1,8 @@
 # Motivation
 The keywalker IFD68 keyboard is a pretty fine 68 keys keyboard with backlight and wireless connectivity. Unfortunately, documentation and support seems scarce at best. This repo will try to dive deep into the capabilities and findings associated with this board.
 
+Also, the board documentation points to the domain 'keywalker.cn', but unfortunately, the DNS for that domain is empty as of August 2017, so no chance of getting official support right now.
+
 # Board Details
 
 | Attribute | Value |
@@ -13,6 +15,7 @@ The keywalker IFD68 keyboard is a pretty fine 68 keys keyboard with backlight an
 | Led backlight | Yes, white LEDs |
 | Dimensions | 316.5 * 109 * 35.5 (mm) |
 | Controller | [STM32F103CB](http://www.st.com/content/st_com/en/products/microcontrollers/stm32-32-bit-arm-cortex-mcus/stm32-mainstream-mcus/stm32f1-series/stm32f103/stm32f103cb.html) [UNCONFIRMED] |
+| Images | [Pictures](https://github.com/GonzaloAlvarez/ifd68/tree/master/media) |
 
 # Board Default Config
 
