@@ -52,7 +52,7 @@ See more in the [User manual](https://github.com/GonzaloAlvarez/ifd68/blob/maste
 # External resources
 
 * [Massdrop product page](https://www.massdrop.com/buy/keywalker-68-bluetooth-mechanical-keyboard)
-* [TaoBao product page](https://world.taobao.com/item/555743764637.htm?spm=a312a.7700714.0.0.6419a3bc50V5PL)
+* [TaoBao product page](https://item.taobao.com/item.htm?spm=a230r.1.14.43.73b217c4Z58Gq4&id=553191491984)
 * [Pinwaishe product review](http://www.pinwaishe.com/wspc/19828.html)
 * [SpritesModes hacking a keyboard](https://spritesmods.com/?art=rapidisnake)
 * [FCC Compliance Tests](https://fccid.io/2AMOT-IFD-68)
